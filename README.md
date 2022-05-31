@@ -1,13 +1,11 @@
-## Installation
+# 21 Savage Auth
 
-1. Clone repo
-2. run `npm install`
+A 21 Savage themed message board with a login feature
 
-## Usage
+#### Link to Project: 
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+![21 Savage](public/21savage.jpg)
 
-## Credit
-
-Modified from Scotch.io's auth tutorial
+## How It's Made:
+Tech used: HTML, CSS, JavaScript, Node
+```
